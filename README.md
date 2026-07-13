@@ -4,6 +4,7 @@ bash course csu chico camp
 
 
 Meg 
+
 Yo
 Diaz
 incriminating?
